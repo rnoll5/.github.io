@@ -54,6 +54,14 @@ Graduated with honors and high achievement grade point average
 __Foresight Real Estate Services__ 
  Worked as an intern, shadowing the principal of a commercial real estate development firm
 
+## Volunteer Work
+
+`2016`
+Habitat for Humanity
+
+`2016-`
+Big Brothers Big Sisters
+
 ## Hobbies
 
 * Hiking

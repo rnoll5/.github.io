@@ -6,7 +6,7 @@ title: Rebecca Noll's CV
 ![Becky](./media/IMG_022.jpg){:.avatar}
 
 
-Rebecca Noll
+<strong>Rebecca Noll</strong><br>
 Programming Student and Technology aficionado
 
 <div id="webaddress">

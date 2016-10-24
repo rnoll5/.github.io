@@ -18,7 +18,7 @@ Programming Student and Technology aficionado
 
 ## Currently
 
-I'm a student at SoftStack Factory, due to finish around January 2017. During my career experience and education, I've taken up an interest in mobile technologies and creative problem solving.
+I'm a student at SoftStack Factory, due to finish around January 2017. During my career experience and education, I've taken up an interest in mobile technologies, information systems, and creative problem solving.
 
 ## Education
 
@@ -35,21 +35,24 @@ __Missouri University of Science and Technology__ Bachelor of Science degree in 
 
 ## Projects
 
+* Wordpress template website
+* Randomly Ascending Array
+* Superhero Challenge
+* Change Calculator
+
 ### CV
 
 I created a this web page to show off my CV.  
 
 ## Achievements
 
-Achievement 1
-
-Achievement 2
+Graduated with honors and high achievement grade point average
 
 ## Experience
 
 `2015`
 __Foresight Real Estate Services__ 
- Worked as an intern, shadowing the principal in commercial real estate development.
+ Worked as an intern, shadowing the principal of a commercial real estate development firm
 
 ## Hobbies
 

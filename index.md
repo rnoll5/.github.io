@@ -37,8 +37,8 @@ __Missouri University of Science and Technology__ Bachelor of Science degree in 
 
 ## Projects
 
-<a href="https://codepen.io/bNoll/pen/zKrWBJ" target="_blank">* Superhero Challenge</a><br>
-<a href="https://codepen.io/bNoll/pen/mAaEWy" target="_blank">* Change Calculator</a>
+<a href="https://codepen.io/bNoll/pen/zKrWBJ" target="_blank">Superhero Challenge</a><br>
+<a href="https://codepen.io/bNoll/pen/mAaEWy" target="_blank">Change Calculator</a>
 
 ### CV
 

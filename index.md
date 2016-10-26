@@ -7,7 +7,7 @@ title: Rebecca Noll's CV
 
 
 <strong>Rebecca Noll</strong><br>
-Programming Student and Technology aficionado
+Aspiring Full Stack Developer
 
 <div id="webaddress">
 <a href="mailto:">bnoll421@gmail.com</a>
@@ -37,10 +37,8 @@ __Missouri University of Science and Technology__ Bachelor of Science degree in 
 
 ## Projects
 
-* Wordpress template website
-* Randomly Ascending Array
-* Superhero Challenge
-* Change Calculator
+<a href="https://codepen.io/bNoll/pen/zKrWBJ" target="_blank">* Superhero Challenge</a><br>
+<a href="https://codepen.io/bNoll/pen/mAaEWy" target="_blank">* Change Calculator</a>
 
 ### CV
 
